@@ -26,29 +26,56 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 #### Analysis and Visualization
 - Purchase vs Non-Purchase Sessions
+  
 ![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
+
 - 'Distribution of Purchase Counts Per User
+  
 ![Purchase vs Non-Purchase](Charts/Distribution-of-Purchase-Counts-Per-User.png)
+
 - Distribution of Total Session Per User
+  
 ![Purchase vs Non-Purchase](Charts/Distribution-of-Total-Session-Per-User.png)
+
 - Journey By Session
-![Purchase vs Non-Purchase](Charts/Journey-By-Session.png)  
+  
+![Purchase vs Non-Purchase](Charts/Journey-By-Session.png)
+
 - Average Time on Each Page
+  
 ![Purchase vs Non-Purchase](Charts/Average-Time-on-Each-Page.png)   
-- Purchases by Referral Source
+
+-  Purchases by Referral Source
+ 
+![Purchase vs Non-Purchase](Charts/Purchases-by-Referral-Source.png)
+
+-  Purchases by Country
+  
 ![Purchase vs Non-Purchase](Charts/Purchases-by-Country.png)
+
 -Funnel Analysis Stages
+
 ![Purchase vs Non-Purchase](Charts/Funnel-Analysis-Stages.png)
+
 -E-commerce Funnel Analysis
+
 ![Purchase vs Non-Purchase](Charts/E-commerce-Funnel-Analysis.png)
+
 -Conversion Rate Between Funnel Stages
+
 ![Purchase vs Non-Purchase](Charts/Conversion-Rate-Between-Funnel-Stages.png)
+
 -Funnel Analysis by Device Type
+
 ![Purchase vs Non-Purchase](Charts/Funnel-Analysis-by-Device-Type.png)
+
 -Funnel Analysis by Countries
+
 ![Purchase vs Non-Purchase](Charts/Funnel-Analysis-by-Countries.png)
+
 -Funnel Analysis by Time Segment
 
+![Purchase vs Non-Purchase](Charts/Funnel-Analysis-by-Time-Segment.png)
 
 
 ## 📈 Example Insights

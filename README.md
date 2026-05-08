@@ -16,33 +16,24 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 ## 🧠 Project Structure 
 #### Cleaning and Transform data 
+
 1. Data types
 2. Data Consistency Stage
 3. Null values
 4. Outliers
 5. Create new columns (Date , Time , Total Sessions Per User, Purchase Counts Per User,Time Segments)
-#### Analysis and Visualization
 
-- Pandas for data manipulation
-- NumPy for numerical analysis
-- Matplotlib & Seaborn for visualization
+
+#### Analysis and Visualization
+- Purchase vs Non-Purchase Sessions
+(C:\Users\Interface\Pictures\Saved Pictures/PurchasevsNon-PurchaseSessions.png)
+- 'Distribution of Purchase Counts Per User
+  
+- Distribution of Total Session Per User
 - Plotly for interactive funnel charts
 - GroupBy & aggregation for behavioral insights
 - Time-based feature engineering
 
-
-## ⏰ Time Segmentation (Example Feature)
-
-The project creates a new feature `TimeSegment` from the `Time` column:
-
-- Late Night  
-- Early Morning  
-- Morning  
-- Afternoon  
-- Evening  
-- Night  
-
-This helps analyze user behavior across different times of the day.
 
 
 ## 📈 Example Insights

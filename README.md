@@ -26,6 +26,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 #### Analysis and Visualization
 - Purchase vs Non-Purchase Sessions
+  
 ![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
 - 'Distribution of Purchase Counts Per User
   

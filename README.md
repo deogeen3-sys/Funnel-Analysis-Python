@@ -20,7 +20,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 2. Data Consistency Stage
 3. Null values
 4. Outliers
-5. Create new columns ()
+5. Create new columns (Date , Time , Total Sessions Per User, Purchase Counts Per User,Time Segments)
 #### Analysis and Visualization
 
 - Pandas for data manipulation

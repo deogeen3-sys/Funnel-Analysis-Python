@@ -6,7 +6,7 @@ It helps identify **drop-off points, conversion rates, and user behavior pattern
 
 The analysis is implemented using **Python (Pandas, Matplotlib, Plotly, Seaborn)** inside a Jupyter Notebook.
 
----
+
 
 ## 🎯 Problem Statement
 The goal of this project is to analyze user behavior across different funnel stages:
@@ -19,12 +19,6 @@ And answer key business questions such as:
 - Which segments or behaviors lead to higher purchases?
 - How can we improve the overall conversion rate?
 
----
-
-## 📂 Project Structure
-
-
----
 
 ## 📊 Key Features
 
@@ -37,7 +31,6 @@ And answer key business questions such as:
 - 🔹 Interactive and static visualizations
 - 🔹 Device / page type segmentation analysis
 
----
 
 ## 🧠 Techniques Used
 
@@ -48,7 +41,6 @@ And answer key business questions such as:
 - GroupBy & aggregation for behavioral insights
 - Time-based feature engineering
 
----
 
 ## ⏰ Time Segmentation (Example Feature)
 
@@ -63,7 +55,6 @@ The project creates a new feature `TimeSegment` from the `Time` column:
 
 This helps analyze user behavior across different times of the day.
 
----
 
 ## 📈 Example Insights
 
@@ -71,11 +62,3 @@ This helps analyze user behavior across different times of the day.
 - Users in **Evening time segment** tend to convert more
 - Mobile users may have lower conversion rates than desktop users
 - Checkout stage is a critical bottleneck
-
----
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/funnel-analysis.git

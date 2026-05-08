@@ -10,26 +10,13 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 - Homepage → Product Page → Cart → Checkout → Purchase
 
-And answer key business questions such as:
-- Where do users drop off in the funnel?
-- What is the conversion rate at each stage?
-- Which segments or behaviors lead to higher purchases?
-- How can we improve the overall conversion rate?
 
 
-## 📊 Key Features
-
-- 🔹 Data cleaning and preprocessing
-- 🔹 User journey analysis
-- 🔹 Funnel stage definition
-- 🔹 Conversion rate calculation
-- 🔹 Drop-off analysis
-- 🔹 Time segmentation analysis (6 time periods)
-- 🔹 Interactive and static visualizations
-- 🔹 Device / page type segmentation analysis
 
 
-## 🧠 Techniques Used
+## 🧠 Project Structure 
+#### Cleaning and Transform data 
+#### Analysis and Visualization
 
 - Pandas for data manipulation
 - NumPy for numerical analysis

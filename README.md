@@ -16,6 +16,11 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 ## 🧠 Project Structure 
 #### Cleaning and Transform data 
+1. Data types
+2. Data Consistency Stage
+3. Null values
+4. Outliers
+5. Create new columns ()
 #### Analysis and Visualization
 
 - Pandas for data manipulation

@@ -2,10 +2,7 @@
 
 ## 📌 Overview
 This project performs **Funnel Analysis** on user journey data to understand how users move through different stages of an e-commerce or product flow.  
-It helps identify **drop-off points, conversion rates, and user behavior patterns** to improve overall conversion performance.
-
-The analysis is implemented using **Python (Pandas, Matplotlib, Plotly, Seaborn)** inside a Jupyter Notebook.
-
+The analysis is implemented using **Python (Pandas, Matplotlib, Plotly, Seaborn,plotly)** inside a Jupyter Notebook.
 
 
 ## 🎯 Problem Statement

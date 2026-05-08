@@ -10,10 +10,6 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 - Homepage → Product Page → Cart → Checkout → Purchase
 
-
-
-
-
 ## 🧠 Project Structure 
 #### Cleaning and Transform data 
 
@@ -28,6 +24,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 - Purchase vs Non-Purchase Sessions
   
 ![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
+###### 20% only the Conversion rate
 
 - 'Distribution of Purchase Counts Per User
   
@@ -60,6 +57,10 @@ The goal of this project is to analyze user behavior across different funnel sta
 -E-commerce Funnel Analysis
 
 ![Purchase vs Non-Purchase](Charts/E-commerce-Funnel-Analysis.png)
+###### we need to check if the problem of cart stage because of any of these reasons
+###### 1) the way informations be showed in diffrent type of devices
+###### 2) something related to specific country or specific culture
+###### 3) something related to time segment like bad night mode or another psychological reason
 
 -Conversion Rate Between Funnel Stages
 
@@ -77,10 +78,9 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 ![Purchase vs Non-Purchase](Charts/Funnel-Analysis-by-Time-Segment.png)
 
+#### then the problem may relate to the price or the product presentation or missing trust signals
 
-## 📈 Example Insights
-
-- Highest drop-off usually occurs between **Product Page → Cart**
-- Users in **Evening time segment** tend to convert more
-- Mobile users may have lower conversion rates than desktop users
-- Checkout stage is a critical bottleneck
+## 🔍 recommends
+1- Competitor price analysis in the market
+2- A/B testing for the “Add to Cart” button
+3- Reviewing product images and descriptions for optimization

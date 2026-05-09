@@ -58,7 +58,10 @@ This project analyzes employee attrition using SQL to uncover key patterns behin
 -E-commerce Funnel Analysis
 
 ![Purchase vs Non-Purchase](Charts/E-commerce-Funnel-Analysis.png)
-
+###### we need to check if the problem of cart stage because of any of these reasons
+###### 1) the way informations be showed in diffrent type of devices
+###### 2) something related to specific country or specific culture
+###### 3) something related to time segment like bad night mode or another psychological reason
 
 -Conversion Rate Between Funnel Stages
 
@@ -77,10 +80,6 @@ This project analyzes employee attrition using SQL to uncover key patterns behin
 ![Purchase vs Non-Purchase](Charts/Funnel-Analysis-by-Time-Segment.png)
 
 #### then the problem may relate to the price or the product presentation or missing trust signals
-###### we need to check if the problem of cart stage because of any of these reasons
-###### 1) the way informations be showed in diffrent type of devices
-###### 2) something related to specific country or specific culture
-###### 3) something related to time segment like bad night mode or another psychological reason
 
 ## 🔍 Recommendations
 

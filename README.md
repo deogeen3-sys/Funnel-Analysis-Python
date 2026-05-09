@@ -13,50 +13,18 @@ This project analyzes employee attrition using SQL to uncover key patterns behin
 - Support HR decision-making with data
 
 ## 🧠 Project Structure 
-#### Cleaning and Transform data 
+#### Cleaning  Data 
 
-1. Data types
-2. Data Consistency Stage
+1. Data Consistency
+2. Outliers
 3. Null values
-4. Outliers
-5. Create new columns (Date , Time , Total Sessions Per User, Purchase Counts Per User,Time Segments)
-
+4. Duplicates
 
 #### Analysis and Visualization
-- Purchase vs Non-Purchase Sessions
+
   
 ![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
-###### 20% only the Conversion rate
 
-- 'Distribution of Purchase Counts Per User
-  
-![Purchase vs Non-Purchase](Charts/Distribution-of-Purchase-Counts-Per-User.png)
-
-- Distribution of Total Session Per User
-  
-![Purchase vs Non-Purchase](Charts/Distribution-of-Total-Session-Per-User.png)
-
-- Journey By Session
-  
-![Purchase vs Non-Purchase](Charts/Journey-By-Session.png)
-
-- Average Time on Each Page
-  
-![Purchase vs Non-Purchase](Charts/Average-Time-on-Each-Page.png)   
-
--  Purchases by Referral Source
- 
-![Purchase vs Non-Purchase](Charts/Purchases-by-Referral-Source.png)
-
--  Purchases by Country
-  
-![Purchase vs Non-Purchase](Charts/Purchases-by-Country.png)
-
--Funnel Analysis Stages
-
-![Purchase vs Non-Purchase](Charts/Funnel-Analysis-Stages.png)
-
--E-commerce Funnel Analysis
 
 ![Purchase vs Non-Purchase](Charts/E-commerce-Funnel-Analysis.png)
 ###### we need to check if the problem of cart stage because of any of these reasons
